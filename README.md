@@ -104,3 +104,9 @@ The AI model can be retrained during runtime:
 3. Run:
    ```bash
    python backend/ai/train.py
+
+
+## Author 
+
+Yatharth Garg
+Rehab Tech Hackathon Project
