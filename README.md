@@ -109,4 +109,5 @@ The AI model can be retrained during runtime:
 ## Author 
 
 Yatharth Garg
+
 Rehab Tech Hackathon Project
