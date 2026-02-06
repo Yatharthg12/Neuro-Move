@@ -111,3 +111,7 @@ The AI model can be retrained during runtime:
 Yatharth Garg
 
 Rehab Tech Hackathon Project
+
+## License
+
+This project is for educational and inspirational use. Prohibited to use in other hackathons by the author. 
