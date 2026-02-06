@@ -114,4 +114,4 @@ Rehab Tech Hackathon Project
 
 ## License
 
-This project is for educational and inspirational use. Prohibited to use in other hackathons by the author. 
+This project is for educational and inspirational use. It is prohibited to use in other hackathons.
